@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
 
     ListView listView;
 
-    String[] namePlanets = {"Jupiter", "Lua", "Marte", "Plutão", "Saturno", "Sol", "Terra", "Venus"};
-    int[] imagePlanets = {R.drawable.jupiter, R.drawable.lua, R.drawable.marte, R.drawable.plutao, R.drawable.saturno, R.drawable.sol,
-            R.drawable.terra, R.drawable.venus,};
+    String[] namePlanets = {"Sushi", "Pizza", "Pastel", "Churrasco", "Hambúrguer", "HotDog", "Brigadeiro", "Bolo"};
+    int[] imagePlanets = {R.drawable.shimeji, R.drawable.pizza, R.drawable.pastel, R.drawable.churras, R.drawable.hamburguer, R.drawable.hotdog,
+            R.drawable.brigadeiro, R.drawable.bolo,};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
